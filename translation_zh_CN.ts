@@ -124,11 +124,11 @@
         </message>
         <message>
             <source>   +Bank erosion</source>
-            <translation>河岸侵蚀</translation>
+            <translation>+河岸侵蚀</translation>
         </message>
         <message>
             <source>   +Slope collapse model</source>
-            <translation>坡崩塌模型</translation>
+            <translation>+坡崩塌模型</translation>
         </message>
         <message>
             <source>No</source>
@@ -140,7 +140,7 @@
         </message>
         <message>
             <source>   +Turbulent model</source>
-            <translation>湍流模型</translation>
+            <translation>+湍流模型</translation>
         </message>
         <message>
             <source>Constant eddy viscosity</source>
