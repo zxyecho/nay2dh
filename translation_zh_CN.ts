@@ -20,7 +20,7 @@
         </message>
         <message>
             <source>+Advanced</source>
-            <translation>高级</translation>
+            <translation>+高级</translation>
         </message>
         <message>
             <source>   Bed deformation</source>
@@ -48,7 +48,7 @@
         </message>
         <message>
             <source>   +Confluence</source>
-            <translation>融合</translation>
+            <translation>   +融合</translation>
         </message>
         <message>
             <source>Enabled : TypeA, from left bank</source>
@@ -64,7 +64,7 @@
         </message>
         <message>
             <source>   +Bed material type</source>
-            <translation>河床材料类型</translation>
+            <translation>   +河床材料类型</translation>
         </message>
         <message>
             <source>Uniform</source>
@@ -76,7 +76,7 @@
         </message>
         <message>
             <source>   +Sediment transport type</source>
-            <translation>沉积物运输类型</translation>
+            <translation>   +沉积物运输类型</translation>
         </message>
         <message>
             <source>Bed load</source>
@@ -88,7 +88,7 @@
         </message>
         <message>
             <source>   +Bedload transport formula for uniform sediment</source>
-            <translation>均匀沉积物的床载运输公式</translation>
+            <translation>   +均匀沉积物的床载运输公式</translation>
         </message>
         <message>
             <source>M.P.M formula</source>
@@ -100,7 +100,7 @@
         </message>
         <message>
             <source>   +Vector of bedload transport</source>
-            <translation>床载荷运输矢量</translation>
+            <translation>   +床载荷运输矢量</translation>
         </message>
         <message>
             <source>Watanabe formula</source>
@@ -112,7 +112,7 @@
         </message>
         <message>
             <source>   +Formula of upward flux of suspended load from river bed</source>
-            <translation>河床悬载向上流量公式</translation>
+            <translation>   +河床悬载向上流量公式</translation>
         </message>
         <message>
             <source>Itakura and Kishi formula</source>
@@ -124,11 +124,11 @@
         </message>
         <message>
             <source>   +Bank erosion</source>
-            <translation>+河岸侵蚀</translation>
+            <translation>   +河岸侵蚀</translation>
         </message>
         <message>
             <source>   +Slope collapse model</source>
-            <translation>+坡崩塌模型</translation>
+            <translation>   +坡崩塌模型</translation>
         </message>
         <message>
             <source>No</source>
