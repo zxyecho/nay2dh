@@ -556,7 +556,7 @@
         </message>
         <message>
             <source>+Hot Start</source>
-            <translation>+Hot Start</translation>
+            <translation>+数值计算hot start</translation>
         </message>
         <message>
             <source>Output temporary files</source>
